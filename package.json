@@ -1,0 +1,24 @@
+{
+  "name": "autoshare",
+  "version": "1.0.0",
+  "description": "A library that enables sharing of posts to facebook or twitter based on user's settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laudb/Autoshare.git"
+  },
+  "keywords": [
+    "social",
+    "sharing",
+    "autoshare"
+  ],
+  "author": "Laud B <laud.bentil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laudb/Autoshare/issues"
+  },
+  "homepage": "https://github.com/laudb/Autoshare#readme"
+}
