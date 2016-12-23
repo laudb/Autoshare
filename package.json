@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/laudb/Autoshare/issues"
   },
-  "homepage": "https://github.com/laudb/Autoshare#readme"
+  "homepage": "https://github.com/laudb/Autoshare#readme",
+  "dependencies": {
+    "fb": "^1.1.1"
+  }
 }
